@@ -1,6 +1,6 @@
 ## Hobby Trader 
 
-Here are some ideas to get you started:
+Combining passions into a hobby : Coding & Trading  
 
 - 🔭 I’m currently working on algorithmic trading using python
 - 🌱 Backtesting data can be found at [MapleFrogStudio](https://github.com/orgs/MapleFrogStudio/repositories?q=DATA-20)
