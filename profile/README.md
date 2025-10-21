@@ -14,7 +14,6 @@ Combining passions into a hobby : Coding & Trading
 #### Useful links  
 - 📈 Hobby Trader [Home Page](https://hobbytrader.github.io/) on Github
 - 🧰 List of [gists](https://gist.github.com/HobbyTrader) from hobby trader
--  Parners for CSV data on MapleFrogStudio()
 
 #### Markdown resources  
 - ℹ️ List of [emojis](https://gist.github.com/rxaviers/7360908) for Markdown
